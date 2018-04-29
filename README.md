@@ -99,7 +99,7 @@ Select yes when it asks to reboot
 
 Install some packages:
 
-<pre><code>sudo apt-get install i2c-tools python-pip</code></pre>
+<pre><code>sudo apt-get install i2c-tools python-pip python-smbus</code></pre>
 
 Find the address of the sensor:
 
